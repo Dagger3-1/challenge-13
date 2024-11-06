@@ -3,7 +3,7 @@
 ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-creates a high quality readme
+Builds the back-end for an e-commerce site
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,10 +14,10 @@ creates a high quality readme
 - [Questions](#questions)
 
 ## Installation
-clone repo and type node index.js
+npm i
 
 ## Usage
-
+npm run start
 
 ## License
 This project is licensed under the MIT license.
